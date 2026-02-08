@@ -20,7 +20,6 @@ https://github.com/user-attachments/assets/62c76dcf-048d-4372-a7d2-90046dcec173
     - `ballHolder_34mm.stl`: 34mmトラックボール用
     - `ballHolder_40mm.stl`: 40mmトラックボール用
     - *元モデル*: [ParRotHardware](https://github.com/ParRot-3DMouse/ParRotHardware)
-        - コントローラを傾けた際に球が落下しないように調整を行いました
 
 - **コントローラ上部カバー・アタッチメント (Upside / Attachment)**
     - `25mm_body_upside.stl`: 25mm球用の上部カバー
