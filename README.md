@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/62c76dcf-048d-4372-a7d2-90046dcec173
         - [SteamVR Unity Plugin - v2.8.0 (sdk 2.0.10)](https://github.com/ValveSoftware/steamvr_unity_plugin/tree/master) (Valve)
 
 - **コントローラ下部カバー (Downside)**
-    - `body_downside.stl`: コントローラ下部固定パーツ
+    - `body_downside.stl`: コントローラの下部カバー
     - *元モデル*: [SteamVR Unity Plugin - v2.8.0 (sdk 2.0.10)](https://github.com/ValveSoftware/steamvr_unity_plugin/tree/master) (Valve)
 
 ## 組み立て (Assembly)
