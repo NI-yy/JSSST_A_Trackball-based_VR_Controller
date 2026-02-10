@@ -49,6 +49,7 @@ https://github.com/user-attachments/assets/62c76dcf-048d-4372-a7d2-90046dcec173
 ## 出版物 (Publication)
 
 岩井 望, 阿部 優樹, 坂本 大介
+(何をかくか要相談)
 
 本プロジェクト・成果物を研究等で利用される場合は，論文が出版され次第，引用をお願いいたします．
 
